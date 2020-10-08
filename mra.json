@@ -1,0 +1,46 @@
+{
+  "result": 1,
+  "message": "apps detail",
+  "app": {
+    "version": 0,
+    "id": "com.rto.vehicle.registrationinfo",
+    "icon_thumb": "uploads/app/icons/AP_nPd6SgRkcrKlFWEZ5h3T.png",
+    "promosingapp": "com.spinlab.scratchandwin",
+    "startapp": "209683527",
+    "vld": 5
+  },
+  "facebook": {
+    "app_id": "APuoW6E8Un0Azp",
+    "fb_banner": "640473693232279_681617465784568",
+    "fb_banner_limit": "5",
+    "fb_interstitial": "640473693232279_681617269117921",
+    "fb_interstitial_limit": "5",
+    "fb_native": "640473693232279_681617119117936",
+    "fb_native_limit": "5",
+    "fb_mid_rect": "640473693232279_681617535784561",
+    "fb_mid_rect_limit": "5",
+    "status": "1",
+    "uflag": "1582607895",
+    "data1": "",
+    "data2": "",
+    "data3": "",
+    "data4": ""
+  },
+  "admob": {
+    "app_id": "APuoW6E8Un0Azp",
+    "admob_banner": "640473693232279_681617465784568",
+    "admob_banner_limit": "5",
+    "admob_interstitial": "640473693232279_681617269117921",
+    "admob_interstitial_limit": "5",
+    "admob_native": "640473693232279_681617119117936",
+    "admob_native_limit": "5",
+    "admob_mid_rect": "640473693232279_681617535784561",
+    "admob_mid_rect_limit": "5",
+    "status": "1",
+    "uflag": "1582607895",
+    "data1": "",
+    "data2": "",
+    "data3": "",
+    "data4": ""
+  }
+}
