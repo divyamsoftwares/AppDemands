@@ -9,9 +9,7 @@
 		"startapp": "209683527",
 		"vld": 5,
 		"ac": 5,
-		"type": 0,
-		"ad_status": 0,
-		"fb_status": 0,
+		"type": 0,		
 		"strt_status": 0
 	},
 	"facebook": {
@@ -24,7 +22,7 @@
 		"fb_native_limit": "5",
 		"fb_mid_rect": "1483546465174262_1483546511840924",
 		"fb_mid_rect_limit": "5",
-		"status": "1",
+		"status": 1,
 		"uflag": "1582607895",
 		"data1": "",
 		"data2": "",
@@ -41,7 +39,7 @@
 		"admob_native_limit": "5",
 		"admob_mid_rect": "ca-app-pub-3932707181234148/9755472498",
 		"admob_mid_rect_limit": "5",
-		"status": "1",
+		"status": 1,
 		"uflag": "1582607895",
 		"data1": "",
 		"data2": "",
