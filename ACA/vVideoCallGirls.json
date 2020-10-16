@@ -13,7 +13,7 @@
 		"strt_status": 0
 	},
 	"facebook": {
-		"app_id": "APuoW6E8Un0Azp",
+		"app_id": "",
 		"fb_banner": "640924569952036_640927176618442",
 		"fb_banner_limit": "5",
 		"fb_interstitial": "640924569952036_640927406618419",
@@ -23,7 +23,7 @@
 		"fb_mid_rect": "640924569952036_640927773285049",
 		"fb_mid_rect_limit": "5",
 		"status": "1",
-		"uflag": "1582607895",
+		"uflag": "",
 		"data1": "",
 		"data2": "",
 		"data3": "",
@@ -40,7 +40,7 @@
 		"admob_mid_rect": "",
 		"admob_mid_rect_limit": "5",
 		"status": "1",
-		"uflag": "1582607895",
+		"uflag": "",
 		"data1": "",
 		"data2": "",
 		"data3": "",
