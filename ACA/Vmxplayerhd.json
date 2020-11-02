@@ -9,7 +9,8 @@
 		"startapp": "209773258",
 		"vld": 5,
 		"ac": 5,
-		"type": 5
+		"type": 5,
+		"strt_status": 0
 	},
 	"facebook": {
 		"app_id": "",
